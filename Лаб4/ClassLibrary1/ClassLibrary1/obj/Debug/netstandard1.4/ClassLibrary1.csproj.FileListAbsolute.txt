@@ -1,0 +1,8 @@
+D:\Doc\СПП\Лаб4\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.deps.json
+D:\Doc\СПП\Лаб4\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.dll
+D:\Doc\СПП\Лаб4\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.pdb
+D:\Doc\СПП\Лаб4\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csprojAssemblyReference.cache
+D:\Doc\СПП\Лаб4\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Doc\СПП\Лаб4\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
+D:\Doc\СПП\Лаб4\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.dll
+D:\Doc\СПП\Лаб4\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.pdb

@@ -1,0 +1,7 @@
+D:\Doc\СПП\Лаб2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Doc\СПП\Лаб2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Doc\СПП\Лаб2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Doc\СПП\Лаб2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\Doc\СПП\Лаб2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Doc\СПП\Лаб2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Doc\СПП\Лаб2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
